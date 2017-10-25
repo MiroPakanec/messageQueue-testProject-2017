@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderSystem.DecrypterService.Service", "OrderSystem.DecrypterService.Service\OrderSystem.DecrypterService.Service.csproj", "{911FDE3F-0752-4EF8-B70F-170BCFCFAAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderSystem.DecrypterService.Core", "OrderSystem.DecrypterService.Core\OrderSystem.DecrypterService.Core.csproj", "{D2C5340E-4EC9-48A5-ADD7-92997FAE3531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911FDE3F-0752-4EF8-B70F-170BCFCFAAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911FDE3F-0752-4EF8-B70F-170BCFCFAAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911FDE3F-0752-4EF8-B70F-170BCFCFAAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911FDE3F-0752-4EF8-B70F-170BCFCFAAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C5340E-4EC9-48A5-ADD7-92997FAE3531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C5340E-4EC9-48A5-ADD7-92997FAE3531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C5340E-4EC9-48A5-ADD7-92997FAE3531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C5340E-4EC9-48A5-ADD7-92997FAE3531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48118318-171D-4EB0-8428-68CE71C0A217}
+	EndGlobalSection
+EndGlobal

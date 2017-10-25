@@ -1,0 +1,10 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\bin\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\bin\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\bin\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\bin\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\bin\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\obj\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\obj\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\obj\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\obj\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Core\obj\BNB\Debug\netcoreapp2.0\OrderSystem.OrderService.Core.pdb

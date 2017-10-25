@@ -1,0 +1,12 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\obj\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\obj\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\obj\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.runtimeconfig.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.runtimeconfig.dev.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\obj\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\obj\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Service.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Core.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\DecrypterService\OrderSystem.DecrypterService.Service\bin\BNB\Debug\netcoreapp2.0\OrderSystem.DecrypterService.Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Core\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.Core.pdb

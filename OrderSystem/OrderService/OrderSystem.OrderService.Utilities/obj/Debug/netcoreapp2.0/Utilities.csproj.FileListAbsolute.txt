@@ -1,0 +1,8 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\bin\Debug\netcoreapp2.0\Utilities.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\bin\Debug\netcoreapp2.0\Utilities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\bin\Debug\netcoreapp2.0\Utilities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\obj\Debug\netcoreapp2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\obj\Debug\netcoreapp2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\obj\Debug\netcoreapp2.0\Utilities.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\obj\Debug\netcoreapp2.0\Utilities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\CreateOrder\Utilities\obj\Debug\netcoreapp2.0\Utilities.pdb

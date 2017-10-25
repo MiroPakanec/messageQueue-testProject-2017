@@ -1,0 +1,9 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\bin\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\bin\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\bin\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\obj\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\obj\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\obj\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\obj\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\obj\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\OrderService\OrderSystem.OrderService.Utilities\obj\Debug\netcoreapp2.0\OrderSystem.OrderService.Utilities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\bin\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\bin\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\bin\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\obj\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\obj\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\obj\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\obj\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.Entities\obj\BNB\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.pdb

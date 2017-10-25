@@ -1,0 +1,11 @@
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.AssemblyInfoInputs.cache
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.AssemblyInfo.cs
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.deps.json
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\bin\Debug\netcoreapp2.0\OrderSystem.AuthService.Entities.pdb
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.dll
+C:\Users\MPJ\Documents\Programming\C#Projects2017\UCN_Exercises\ex3\OrderSystem\AuthService\OrderSystem.AuthService.DAL\obj\Debug\netcoreapp2.0\OrderSystem.AuthService.DAL.pdb
